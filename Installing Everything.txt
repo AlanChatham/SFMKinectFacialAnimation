@@ -1,0 +1,5 @@
+Things you'll need to install in order to get this to work (Note - all of this only works on Windows, so if you have a Mac, you'll need Bootcamp or Parallels and be running Windows)
+
+Source Filmmaker - http://www.sourcefilmmaker.com/
+Kinect SDK - 
+Visual Studio Express 2010/2012 - 
