@@ -1,6 +1,6 @@
 #Samples we're not using
 /DepthBasics-D2D/*.*
-/FaceTrackingVisualization/*
+/FaceTrackingBasics-WPF/*
 
 #Images for tutorials
 /Images/*.*
